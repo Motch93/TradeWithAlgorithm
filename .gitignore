@@ -1,2 +1,5 @@
 /GitIgnoreFiles/*
 GitIgnoreFiles/tokens
+GitIgnoreFiles
+\GitIgnoreFiles\*
+GitIgnoreFiles/*
